@@ -3,3 +3,10 @@
 
 # Rope project settings
 .ropeproject
+
+*.DS_Store
+
+# LOCAL
+# R Project
+/small_projects_R_proj/
+.Rproj.user
