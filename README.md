@@ -1,5 +1,9 @@
 # Small Projects in Bioinformatics
 
+Below are model-building demos that explore machine learning packages using case studies in bioinformatics.
+
+## Classification Models in R
+
 ### RF-insecta-classifier:
 [Random Forest Taxonomic Classification of CytB DNA sequences in Orders of Insecta](https://github.com/Lespernater/small-projects/blob/main/RF-insecta-classifier/RF-insecta-classifier.pdf)
 
